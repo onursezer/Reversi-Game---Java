@@ -1,1 +1,1 @@
-# Reversi-Game - Java
+# Reversi Game - Java
